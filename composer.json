@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Aboutalebi\\LaravelBlog\\BlogServiceProvider"
+                "Aboutalebi\\LaravelBlog\\Providers\\BlogServiceProvider"
             ]
         }
     },
