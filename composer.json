@@ -12,7 +12,9 @@
             "email": "m.abotalebie@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "^8.0|^8.1|^8.2"
+    },
     "extra": {
         "laravel": {
             "providers": [
@@ -20,5 +22,6 @@
             ]
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
