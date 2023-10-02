@@ -1,6 +1,8 @@
 {
     "name": "aboutalebi/laravel-blog",
     "description": "CMS for laravel",
+    "keywords": ["laravel", "cms", "blog"],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Aboutalebi\\LaravelBlog\\": "src/"
