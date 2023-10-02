@@ -19,5 +19,6 @@
                 "Aboutalebi\\LaravelBlog\\BlogServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
