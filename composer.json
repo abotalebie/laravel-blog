@@ -1,0 +1,23 @@
+{
+    "name": "aboutalebi/laravel-blog",
+    "description": "CMS for laravel",
+    "autoload": {
+        "psr-4": {
+            "Aboutalebi\\LaravelBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mostafa Aboutalebi",
+            "email": "m.abotalebie@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aboutalebi\\LaravelBlog\\BlogServiceProvider"
+            ]
+        }
+    }
+}
